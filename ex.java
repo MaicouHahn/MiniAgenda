@@ -13,6 +13,10 @@ public class ex {
 
             System.out.println("Nome: ");
             nome[i]=scan.nextLine();
+System.out.println("Nome: ");
+            nome[i]=scan.nextLine();
+System.out.println("Nome: ");
+            nome[i]=scan.nextLine();
             
         }
         */
